@@ -2,7 +2,8 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B518F7&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Isadora+ferreira;tenho+20+anos;fa%C3%A7o+engenharia+de+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bold&weight=600&size=25&pause=1000&color=950FE6&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Isadora+Ferreira.;Tenho+20+anos.;Fa%C3%A7o+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+
 <br>
 <br>
 
