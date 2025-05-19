@@ -54,14 +54,10 @@
   
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/f70d52a4-df04-4b3b-b68f-e6dfc4314b14">
 
-
 <img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/b6686266-e778-4305-ae51-0ec69ed1a8ba">
 
 <img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/30246df7-bd38-48ca-a9be-74b9f7a9f99b">
 
-
-
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/db808f3d-a65f-4a09-a447-a0c587fb04cb">
 
 <img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/41624308-efb0-43a1-a978-a65cdc8424fa">
 
