@@ -79,7 +79,7 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/41624308-efb0-43a1-a978-a65cdc8424fa">
 
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/cdbb77a2-660d-472b-9277-3317924d05f2">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/f70d52a4-df04-4b3b-b68f-e6dfc4314b14">
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
 
