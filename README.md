@@ -37,17 +37,34 @@
 
 <div align="center">
 
+<br>
+<br> 
+<br>
+<br>
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+<br>
+<br>
 
 </div>
 
 
 
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br> 
+
 ### Main skills:
+<br>
+
 <div align="left"> 
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/09a0ca86-fcd3-4a70-960c-6a746ef2e7bb">
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/db808f3d-a65f-4a09-a447-a0c587fb04cb">
