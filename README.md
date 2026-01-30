@@ -64,21 +64,22 @@
 <br>
 <br> 
 
-### Main skills:
+<h2>Mains skills</h2>
 <br>
 
 <div align="left"> 
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/09a0ca86-fcd3-4a70-960c-6a746ef2e7bb">
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/db808f3d-a65f-4a09-a447-a0c587fb04cb">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/e709ed29-7252-4fa2-a9eb-a632bea926d7">
   
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/f70d52a4-df04-4b3b-b68f-e6dfc4314b14">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/9ba2ebae-44e1-4d01-a040-42076456b888">
 
-<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/b6686266-e778-4305-ae51-0ec69ed1a8ba">
+<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/27584ff9-5cdf-40d5-bebb-a52e952b39c7">
 
-<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/30246df7-bd38-48ca-a9be-74b9f7a9f99b">
+<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/3a6aa4be-e802-497e-a6d6-b9e873a4fac8">
 
+<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/dbcaca20-44f5-4866-acd3-24e41eaf008f">
 
-<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/41624308-efb0-43a1-a978-a65cdc8424fa">
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
 
 
 <br>
@@ -96,19 +97,32 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/09a0ca86-fcd3-4a70-960c-6a746ef2e7bb">
 
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/41624308-efb0-43a1-a978-a65cdc8424fa">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/805d2093-7f6e-443d-9429-eb34fda5fd67">
 
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/f70d52a4-df04-4b3b-b68f-e6dfc4314b14">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/a4c3629b-8a96-47ab-809e-c1ae1503c4a2">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/06934e87-b6e4-4334-a3f8-0fd072149525">
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
 
 </div>
+<br>
+<br>
+<br>
 
 
-<div align="center">
-  
+</div>
+<h2 align="left"> Systems:</h2>
+<div>
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/16bccbe9-2558-4c49-b3ec-e0016deb40ea">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/b49e0d74-c21f-45b7-88fb-e0679585aab0">
+       
+</div>
+
+
+
+
+     
 <br>
 <br>
 <br>
