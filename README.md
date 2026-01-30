@@ -1,5 +1,5 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/1de886cb-cd02-4aa2-bee6-e7545c83625d"/>
-<br>
+       
 <br> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=651C9C&width=600&height=60&lines=Ol%C3%A1+meu+nome+%C3%A9+Isadora+Ferreira.;Tenho+21+anos!;Fa%C3%A7o+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o.)](https://git.io/typing-svg)
@@ -112,9 +112,16 @@
 <br>
 <br>
 
-<p align="centre"><b>Visitors Count</b></p> 
-  
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fisfl1&s=100&c=a507df&bg=00000000&no=3&ff=digii&tb=visitantes%3A+&ta=" /></p> 
+
+  <br>
+  <br>
+  <br>
+  <br>
+ <div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/<github-isfl1>"/>  
+    </div>
+
 <br>
 </div>
 
